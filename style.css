@@ -1,0 +1,23 @@
+body{
+    background-color: pink;
+    text-align: center;
+}
+#myout{
+    width: 38%;
+    max-width: 500px;
+    min-width:400px; 
+      padding: 15px;
+    height: 15px;
+    padding:15px 25px 35px;
+    margin: 0 auto;
+    border:5px solid white;
+    color: powderblue;
+    background-color: black;
+
+}
+.calc{
+    background-color: rgba(0, 128, 0, 0.644);
+}
+.rest{
+    background-color:rgb(33, 53, 112);
+}
